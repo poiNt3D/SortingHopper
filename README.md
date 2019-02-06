@@ -1,5 +1,10 @@
-SortingHopper
+SortingHopper Classic
 =============
+Simple version with no inventory gui, updated.
+Version with all new features is located here: https://github.com/poiNt3D/SortingHopper2
+
+Project's home page on BukkitDev:
+https://dev.bukkit.org/projects/sortinghopper
 
 Bukkit plugin that creates item filter from a hopper.
 
